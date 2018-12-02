@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Term
+comment1.params=c\ e
+comment1.target=Term(double,\ int)
+comment2.params=
+comment2.target=double\ getCoefficient()
+comment3.params=
+comment3.target=int\ getExponent()
+comment4.params=
+comment4.target=java.lang.String\ displaySimple()
+comment5.params=
+comment5.target=java.lang.String\ displayImproved()
+numComments=6
